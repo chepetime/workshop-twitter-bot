@@ -28,7 +28,7 @@ To tweet a random quote, just run:
 npm run start
 ```
 
-This task is defined in the `package.json` file. Check it out if you want!
+> This task is defined in the `package.json` file. Check it out if you want!
 
 <br><br>
 
